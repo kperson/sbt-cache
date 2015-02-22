@@ -1,0 +1,12 @@
+target/
+.lib/
+.classpath
+.project
+config.properties
+.cache
+.DS_Store
+.kay
+quick-start-server
+quick-start-builder
+quick-start-registry
+.tmpBin
